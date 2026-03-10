@@ -1,0 +1,10 @@
+{
+  "listingMap": {
+    "classdemo/projects/index.qmd": [
+      "projects.yml"
+    ],
+    "projects/index.qmd": [
+      "projects.yml"
+    ]
+  }
+}

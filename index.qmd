@@ -1,0 +1,29 @@
+---
+title: "Lilah-Marie Badenhorst"
+subtitle: "USF Student"
+# `profile.jpg` photo by Jan Tinneberg on https://unsplash.com
+image: profile.jpg
+about: # https://quarto.org/docs/websites/website-about.html
+  template: jolla
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/lilahbadenhorst/mywebsite.git
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/lilah-marie-badenhorst-2b8071388/
+---
+
+A little bit about me and my life.
+
+## Education
+
+University of South Florida \| Tampa,FL \| Aug 2023 - present
+
+## Experience
+
+Publix \| Customer Service Staff \| June 2025 - present
+
+Publix \| Cashier \| Aug 2022 - June 2025
+
+Publix \| Front Service Clerk \| Aug 2021 - Aug 2022
