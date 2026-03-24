@@ -14,7 +14,7 @@ about: # https://quarto.org/docs/websites/website-about.html
       href: https://www.linkedin.com/in/lilah-marie-badenhorst-2b8071388/
 ---
 
-A little bit about me and my life.
+I am in my junior year at USF studying Risk Management and Insurance and Finance. I am also very involved with RUF and I am the Media Chair. I have a General Liability internship for the summer of 2026 at Publix in Lakeland, FL.
 
 ## Education
 

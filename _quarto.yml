@@ -10,6 +10,8 @@ website:
     right:
       - text: Home
         href: index.qmd
+      - text: Homework
+        href: Homework3-1.html
       
 format:
   html:
